@@ -1,4 +1,4 @@
-# Project-2-Phonepe-pulse-data-Visualization-and-Exploration
+# Capstone-2-Phonepe-pulse-data-Visualization-and-Exploration
 
 The aim of this project is to develop a solution that extracts, transforms, and visualizes data from the Phonepe Pulse GitHub repository. The process involves:
 
@@ -16,3 +16,10 @@ Using Streamlit and Plotly to build an interactive dashboard.
 
 **5. Data Retrieval:**
 Fetching data from the database to dynamically update the dashboard.
+
+
+NAME : KUMARAN B
+
+BATCH: DTE3
+
+DOMAIN : DATA SCIENCE
